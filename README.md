@@ -5,4 +5,4 @@ This project is a Java-based data parsing and visualization application. The too
 The project emphasizes hash table implementation, efficient data analysis, and event-driven visualization. Users can input keywords or categories through a JavaFX GUI to dynamically generate bar and line graphs representing different distributions in the data.
 
 # DEMO
-
+[Click Here to view Live Demo](https://drive.google.com/file/d/1Ds_7BCYSS1StYsZjVk3yr-61W0zICEJZ/view?usp=sharing)
