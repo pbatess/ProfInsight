@@ -18,23 +18,23 @@ The project emphasizes hash table implementation, efficient data analysis, and e
 - Abstraction and polymorphism via abstract classes
 
 # Project Structure
-MyHashTable.java — Custom generic hash table implementation
+**MyHashTable.java —** Custom generic hash table implementation
 
-DataAnalyzer.java — Abstract base class defining analysis interface
+**DataAnalyzer.java —** Abstract base class defining analysis interface
 
-RatingDistributionByProf.java — Rating distribution for a given professor
+**RatingDistributionByProf.java —** Rating distribution for a given professor
 - User Inputs professors first and last name to view their range of ratings (1-5) on Rate My Professor
   
-RatingDistributionBySchool.java — Ratings aggregated by school
+**RatingDistributionBySchool.java —** Ratings aggregated by school
 - User inputs school name to view average professor rating for all professors in the data set that correspond to inputted school
   
-GenderByKeyword.java — Keyword frequency by perceived gender
+**GenderByKeyword.java —** Keyword frequency by perceived gender
 - User inputs any keyword to view distribution between Female and Male Professors
   
-RatingByKeyword.java — Rating distribution associated with keywords
+**RatingByKeyword.java —** Rating distribution associated with keywords
 - User inputs keyword to view distribution of ratings associated with said keyword
   
-RatingByGender.java — Rating and difficulty distribution by gender
+**RatingByGender.java —** Rating and difficulty distribution by gender
 - User inputs word difficulty or quality to view distribution
 
 # Learning Outcomes
