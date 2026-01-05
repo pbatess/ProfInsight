@@ -1,2 +1,8 @@
 # ProfInsight
-This project parses and structures a complex dataset of college professor reviews using custom classes. It then leverages a graphical tool to visualize word frequency across review quality and professor gender, enabling insights into patterns and trends in student feedback.
+
+This project is a Java-based data parsing and visualization application. The tool processes a real-world dataset of nearly 20,000 professor reviews from RateMyProfessors.com and enables interactive exploration of trends in ratings, language usage, and gender-based patterns.
+
+The project emphasizes hash table implementation, efficient data analysis, and event-driven visualization. Users can input keywords or categories through a JavaFX GUI to dynamically generate bar and line graphs representing different distributions in the data.
+
+# DEMO
+
