@@ -41,4 +41,4 @@ The project emphasizes hash table implementation, efficient data analysis, and e
 - Designed and implemented a performant data structure for real-world data analysis
 - Applied hashing to enable scalable, interactive queries
 - Gained experience translating raw data into meaningful visual insights
-- Strengthened understanding of abstraction, modular design, and defensive programming
+- Strengthened understanding of abstraction and defensive programming
